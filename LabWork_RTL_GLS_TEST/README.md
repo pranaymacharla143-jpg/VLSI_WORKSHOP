@@ -859,6 +859,6 @@ DESIGN VERIFICATION
 
 ## Author
 
-**Name:** Bardawal Sangathram  
+**Name:** MACHARLA PRANAY KUMAR
 **Department:** Electronics and Communication Engineering (ECE)  
 **Institution:** Anurag University
