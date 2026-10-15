@@ -1,4 +1,4 @@
-# MODULE 7 — RTL Design Workshop
+# MODULE 2 — RTL Design Workshop
 
 ## Physical Design, Floorplanning, Layout and PDN
 
