@@ -1,4 +1,4 @@
-# Module 1 — RTL Design and Simulation
+# Day 1 — RTL Design and Simulation
 
 ## Overview
 
