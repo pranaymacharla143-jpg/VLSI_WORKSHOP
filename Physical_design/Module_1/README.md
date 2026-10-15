@@ -1,4 +1,4 @@
-# MODULE 6 — RTL Design Workshop
+# MODULE 1 — RTL Design Workshop
 
 ## OpenLane, Sky130, Synthesis and Static Timing Analysis (STA)
 
