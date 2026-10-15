@@ -1,4 +1,4 @@
-# Module 8: Design Library Cell Using Magic Layout and ngspice Characterization
+# Module 3: Design Library Cell Using Magic Layout and ngspice Characterization
 
 ## 📌 Module Overview
 
