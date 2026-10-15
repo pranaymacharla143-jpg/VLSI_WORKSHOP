@@ -1,4 +1,4 @@
-# Module 10: Final Physical Design Steps
+# Module 5: Final Physical Design Steps
 
 This module covers the final physical-design stages of a Sky130 RTL-to-GDSII flow, including routing concepts, power-distribution network (PDN) generation, global routing, detailed routing, TritonRoute, and design-rule checking (DRC).
 
