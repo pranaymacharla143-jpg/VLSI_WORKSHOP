@@ -1,4 +1,4 @@
-# Module 4 — GLS, Blocking vs Non-Blocking and Synthesis Simulation
+# Day 4 — GLS, Blocking vs Non-Blocking and Synthesis Simulation
 
 ## Overview
 
