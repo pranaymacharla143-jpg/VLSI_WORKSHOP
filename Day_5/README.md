@@ -1,4 +1,4 @@
-# Module 5 — Optimization in Synthesis
+# Day 5 — Optimization in Synthesis
 
 ## Overview
 
