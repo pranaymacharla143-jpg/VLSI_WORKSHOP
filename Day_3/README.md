@@ -1,4 +1,4 @@
-# Module 3 — Combinational and Sequential Optimization
+# Day 3 — Combinational and Sequential Optimization
 
 ## Overview
 
