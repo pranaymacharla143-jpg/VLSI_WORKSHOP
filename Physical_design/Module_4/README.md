@@ -1,4 +1,4 @@
-# Module 9: PICORV32A RTL-to-GDSII Implementation Using OpenLane
+# Module 4: PICORV32A RTL-to-GDSII Implementation Using OpenLane
 
 This module covers the RTL-to-GDSII implementation flow of the PICORV32A RISC-V processor using the OpenLane ASIC design flow and the Sky130 standard-cell library. The workflow includes configuration setup, RTL synthesis, technology mapping, floorplanning, placement, clock tree synthesis (CTS), timing analysis, and physical-design inspection.
 
