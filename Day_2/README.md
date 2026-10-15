@@ -1,4 +1,4 @@
-# Module 2 — Sequential Logic and RTL Synthesis
+# Day 2 — Sequential Logic and RTL Synthesis
 
 ## Overview
 
